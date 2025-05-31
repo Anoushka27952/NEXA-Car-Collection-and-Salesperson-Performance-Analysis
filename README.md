@@ -2,6 +2,8 @@
 Goal:
 To analyze and optimize NEXA’s car sales performance by tracking key metrics such as total sales, car-wise and city-wise revenue, salesperson contributions, and payment trends. The aim is to identify sales trends, reward top performers, and refine sales strategies for better business growth.
 
+Tools Used: Excel
+
 Process:
 1)Cleaning
 Removed duplicate and inconsistent records to ensure data accuracy.
